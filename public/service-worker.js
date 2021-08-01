@@ -1,5 +1,5 @@
 self.addEventListener('install', function () {
-    console.log('Install!');
+    console.log('Installs!');
 });
 self.addEventListener("activate", event => {
     console.log('Activate!');
